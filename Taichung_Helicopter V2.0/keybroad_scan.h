@@ -1,0 +1,5 @@
+#ifndef KEYBROAD_SCAN
+#define KEYBROAD_SCAN
+
+#endif // KEYBROAD_SCAN
+
