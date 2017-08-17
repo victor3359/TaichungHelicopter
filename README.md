@@ -1,2 +1,2 @@
 # TaichungHelicopter
-TaichungHeilcopter For Qt5 / Raspberry Pi
+TaichungHelicopter For Qt5 / Raspberry Pi
